@@ -1,0 +1,1 @@
+(13,left),(14,down),(22,left),(23,up),(7,up),(1,up),(1,left),(7,down),(21,right),(16,right),(4,down),(5,down),(8,left)
