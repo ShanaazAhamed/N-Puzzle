@@ -74,4 +74,5 @@ analysis uses the **Scipy** and **Numpy** libraries
 ***
 ## Reference
 [1] “A-star(A*) in general”
+
 https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general
