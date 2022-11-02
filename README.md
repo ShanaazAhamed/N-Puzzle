@@ -1,4 +1,4 @@
-# N-Puzzle
+# `N-Puzzle`
 **CS3612 - Intelligent Systems**
 
 An N-puzzle involves solving a square board filled with numbered tiles. The board of the basic puzzle has simply one vacant area that may be filled with tiles to change the layout. The rearranged tiles must produce the necessary goal state for the problem to be solved. 
