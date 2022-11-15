@@ -24,14 +24,14 @@ In this research I concentrated on a problem with two vacant (“-“) areas rat
 
 
 ### Run the `command_line_n_puzzle.py` on command 
-```
+```bash
 python command_line_n_puzzle.py start_config.txt goal_config.txt 
 
 ```
 ### Randomly generated test cases
 The following code was used to create 100 n-puzzle problems at random with puzzle 
 
-```
+```py
 def random_puzzle_creation(n):
     puzzle = np.full((n, n), '-', dtype=object)
     items = list(range(1, n**2 + 1))
@@ -57,7 +57,7 @@ between the two implementations employing the two heuristics in this case. The s
 analysis uses the **Scipy** and **Numpy** libraries
 
 ### Following code part used for analysis 
-```
+```py
     mean = abs(np.mean(misplaced_steps)-np.mean(manhattan_steps))
     alpha = 0.05
     t_score, p_val = (stats.ttest_rel(misplaced_steps, manhattan_steps))
