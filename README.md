@@ -13,7 +13,7 @@ A common puzzle called a puzzle or sliding puzzle is made up of N tiles, where N
 
 ## Problem
 
-In this research I concentrated on a problem with two vacant (“-“) areas rather than one. N tiles make up the problem, and there are two vacant spots for the tiles to travel between. The puzzle has Start and Goal configurations, commonly known as states. By rearranging the tiles in the empty spots, the puzzle may be solved, and the Goal configuration achieved. A* algorithm involves here. [1]
+In this research I concentrated on a problem with two vacant (“-“) areas rather than one. N tiles make up the problem, and there are two vacant spots for the tiles to travel between. The puzzle has Start and Goal configurations, commonly known as states. By rearranging the tiles in the empty spots, the puzzle may be solved, and the Goal configuration achieved. A* algorithm involves here.[1]([1])
 
 ### Sample image of start and goal configuration
 
@@ -73,6 +73,7 @@ analysis uses the **Scipy** and **Numpy** libraries
 
 ***
 ## Reference
+[1]: https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general
 [1] “A-star(A*) in general”
 
-https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general
+
