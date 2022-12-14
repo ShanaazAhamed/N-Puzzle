@@ -48,7 +48,7 @@ def random_puzzle_creation(n):
 
 The output displayed below demonstrates the creation of 100 start and goal pairings as well as their statistical analysis following the application of the two heuristics. misplaced tiles, Manhattan Distance
 
-<img src="img/3.png" alt="sample image" >
+<img src="img/3.png" alt="sample image" width="50%">
 
 According to the analysis above, a significant value (p-value) of roughly 0.46 is achieved for the 
 specific 100 randomly generated start and goal pairs. A p-value of 0.05 or less would be required 
